@@ -1,0 +1,23 @@
+@media (max-width:450px){
+    .main-page{
+        height: 100%;
+        width: 100%;
+    }
+  .small-img{
+   left:3.3em !important;
+  }
+}
+.singupbtn:hover{
+    outline: none;
+    border: none;
+}
+.Loginbtn{
+    background-color: #cbcbcb;
+}
+.Loginbtn:hover{
+    background-color: #6c25ff !important;
+    border: none !important;
+}
+.css-13lvt8g-MuiButtonBase-root-MuiRadio-root.Mui-checked{
+    color: #6c25ff !important;
+}
