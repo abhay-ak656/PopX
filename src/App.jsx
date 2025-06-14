@@ -12,7 +12,7 @@ function App() {
     <>
      <Router>
       <Routes>
-        <Route path='/PopX' element={<DashBoard/>}></Route>
+        <Route path='/' element={<DashBoard/>}></Route>
         <Route path='/PopX/login' element={<Login/>}></Route>
         <Route path='/PopX/SingUp' element={<SingUp/>}></Route>
         <Route path='/popx/profile' element={<Profile/>}></Route>
