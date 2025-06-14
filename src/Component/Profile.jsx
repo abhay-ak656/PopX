@@ -10,8 +10,8 @@ export default function Profile(){
             <div className="main flex flex-col justify-between p-6 gap-3 h-auto w-full border-b-[#CBCBCB] border-b-2 border-dashed">
                <div className="profile h-auto w-full flex mb-4">
                    <div className="imgconatiner h-full w-[30%]">
-                    <img className='h-[100%] w-[70%]  rounded-full' src='/src/assets/profile.webp'></img>
-                 <img className=' small-img rounded-full relative bottom-5 left-10' height={23} width={21}  src='/src/assets/camera.webp'></img>
+                    <img className='h-[100%] w-[70%]  rounded-full' src='../assets/profile.webp'></img>
+                 <img className=' small-img rounded-full relative bottom-5 left-10' height={23} width={21}  src='../assets/camera.webp'></img>
                    </div>
                     <div className="content h-full w-[70%] flex flex-col mb-2 items-start">
                         <h2 className='font-bold mb-2'>Marry Doe</h2>
